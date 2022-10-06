@@ -32,6 +32,7 @@ const (
 	Driver         Template = "DRIVER"
 	Path           Template = "PATH"
 	Source         Template = "SOURCE"
+	Format         Template = "FORMAT"
 	DiskType       Template = "DISK_TYPE"
 	ReadOnly       Template = "READONLY"
 	Md5            Template = "MD5"
