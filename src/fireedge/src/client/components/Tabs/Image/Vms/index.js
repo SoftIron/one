@@ -44,7 +44,7 @@ const VmsTab = ({ id }) => {
       displaySelectedRows
       host={image}
       onRowClick={(row) => handleRowClick(row.ID)}
-      noDataMessage={<EmptyTab label={T.NotVmsCurrenty} />}
+      noDataMessage={<EmptyTab label={T.NotVmsCurrentyImage} />}
     />
   )
 }
